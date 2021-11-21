@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Himanshu Kushwaha
-This is my GitHub Account [HiamnsHU03k](https://github.com/Himanshu03K)
+This is my GitHub Account [Himanshu03K](https://github.com/Himanshu03K)
 
 -->
 
