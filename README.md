@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Himanshu Kushwaha
 This is my GitHub Account [Himanshu03K](https://github.com/Himanshu03K)
 
--->
 
-**Himanshu03K/Himanshu03K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +12,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: [HIMANSHU KUSHWAHA](https://www.linkedin.com/in/himanshu-kushwaha-7a27a91b8)
 
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu03K&layout=compact)](https://github.com/Himanshu03K/github-readme-stats)
 
