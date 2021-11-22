@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Coding skill. Java, Competitive coding 
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on project
-- 📫  If you are interested in contacting me please [Email](kushwaha0312@gmail.com), or feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/himanshu-kushwaha-7a27a91b8).
+- 📫  If you are interested in contacting me please [Email](https://www.kushwaha0312@gmail.com), or feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/himanshu-kushwaha-7a27a91b8).
 
 
 
