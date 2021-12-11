@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Himanshu03K)
 ### Hi there 👋 I'm Himanshu Kushwaha
 This is my GitHub Account [Himanshu03K](https://github.com/Himanshu03K)
 
