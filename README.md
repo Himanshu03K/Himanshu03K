@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/Himanshu03K?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Himanshu03K"><img src="https://github-readme-stats.vercel.app/api?username=Himanshu03K7&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&show_icons=true" alt="Himanshu03K's GitHub stats" /></a>
+<a href="http://www.github.com/Himanshu03K"><img src="https://github-readme-stats.vercel.app/api?username=Himanshu03K&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&show_icons=true" alt="Himanshu03K's GitHub stats" /></a>
 
 <a href="http://www.github.com/Himanshu03K"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu03K&stroke=ffffff&background=27272a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
