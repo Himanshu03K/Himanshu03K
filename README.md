@@ -2,10 +2,9 @@
 ### Hi there 👋 I'm Himanshu Kushwaha
 ====================================
 
-* 🌍  I'm based in Mathura, India
-
 Here are some ideas to get you started:
 
+- 🌍  I'm based in Mathura, India
 - 🔭 I’m currently working on Coding skill. Java, Competitive coding 
 - 🌱 I’m currently learning new technologies
 - 👯 I’m looking to collaborate on project
